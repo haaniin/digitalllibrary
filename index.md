@@ -26,6 +26,6 @@ Berikut adalah koleksi yang dimiliki:
 
 10.[Monster Kakak](ebook/Monster Kakak_copy.pdf) - Bel Richardison(2024)
 
-11.[Ringkasan Materi VR](Ebook/Ringkasan Materi VR_Hanin aqila m (13040123140092).pdf) - Hanin Aqila(2025)
+11.[Ringkasan Materi VR](ebook/Ringkasan Materi VR_Hanin aqila m (13040123140092).pdf) - Hanin Aqila(2025)
 
 powered by _GitHub Pages_
