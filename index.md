@@ -12,7 +12,7 @@ Berikut adalah koleksi yang dimiliki:
 
 3.[Transportasi](ebook/Transportasi_copy.pdf) - Bookbot(2024)
 
-4.[Ke Mana Monster Sungai Mengembara?](ebook/Ke Mana Monster Sungai Mengembara?_copy.pdf) - The Asia Foundation(2024)
+4.[Ke Mana Monster Sungai Mengembara](Ebook/Ke Mana Monster Sungai Mengembara_copy.pdf) – The Asia Foundation(2024)
 
 5.[Aneh](ebook/Aneh_copy.pdf) - Pratham Books(2024)
 
