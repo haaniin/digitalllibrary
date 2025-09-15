@@ -7,7 +7,6 @@ Berikut adalah koleksi yang dimiliki:
 ##Koleksi
 
 1.[Nyanyian hujan](Ebook/Nyanyian hujan_copy.pdf) - Mukesh Tamrakar(2024)
-
 2.[Tarik Talinya](Ebook/Tarik Talinya_copy.pdf) - Humayra Kabir(2024)
 
 3.[Transportasi](Ebook/Transportasi_copy.pdf) - Bookbot(2024)
