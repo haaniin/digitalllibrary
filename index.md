@@ -12,11 +12,11 @@ Berikut adalah koleksi yang dimiliki:
 
 3.[Transportasi](ebook/Transportasi_copy.pdf) - Bookbot(2024)
 
-4.[Ke Mana Monster Sungai?](ebook/Ke Mana Monster Sungai Mengembara?_copy.pdf) - The Asia Foundation(2024)
+4.[Ke Mana Monster Sungai Mengembara?](ebook/Ke Mana Monster Sungai Mengembara?_copy.pdf) - The Asia Foundation(2024)
 
 5.[Aneh](ebook/Aneh_copy.pdf) - Pratham Books(2024)
 
-6.[Aum, Aum, Dinosaurus](ebook/Aum, Aum, Dinosaurus_copy.pdf) - Lavanya Naidu(2024)
+6.[Aum, Aum, Dinosaurus!](ebook/Aum, Aum, Dinosaurus!_copy.pdf) - Lavanya Naidu(2024)
 
 7.[Di Mana Gogo](ebook/Di Mana Gogo_copy.pdf) - Soumya Menon(2024)
 
@@ -26,6 +26,6 @@ Berikut adalah koleksi yang dimiliki:
 
 10.[Monster Kakak](ebook/Monster Kakak_copy.pdf) - Bel Richardison(2024)
 
-11.Ringkasan Materi VR.pdf
+11.Ringkasan Materi VR.pdf_Hanin aqila m(13040123140092)
 
 powered by _GitHub Pages_
