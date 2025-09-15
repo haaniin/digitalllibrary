@@ -5,9 +5,13 @@ Selamat Datang di Perpustakaan Digital
 Berikut adalah koleksi yang dimiliki:
 
 ##Koleksi
+
 1.[Nyanyian hujan](Ebook/Nyanyian hujan_copy.pdf)-Mukesh Tamrakar(2024)
+
 2.[Tarik Talinya](Ebook/Tarik Talinya_copy.pdf)-Humayra Kabir(2024)
+
 3.[Transportasi](Ebook/Transportasi_copy.pdf)-Bookbot(2024)
+
 4.[Kemana Monster Sungai](Ebook/Kemana Monster Sungai Mengembara?_copy.pdf)-The Asia Foundation(2024)
 5.[Aneh](Ebook/Aneh_copy.pdf)-Pratham Books(2024)
 6.[Aum Aum Dinosaurus](Ebook/Aum Aum Dinosaurus_copy.pdf)-Lavanya Naidu(2024)
