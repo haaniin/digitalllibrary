@@ -12,7 +12,7 @@ Berikut adalah koleksi yang dimiliki:
 
 3.[Transportasi](ebook/Transportasi_copy.pdf) - Bookbot(2024)
 
-4. [Kambing Jantan](ebook/Raditya Dika - Kambing Jantan_text.pdf) - Raditya Dika, (2005)
+4.[Kambing Jantan](ebook/Raditya Dika - Kambing Jantan_text.pdf) - Raditya Dika, (2005)
 
 5.[Aneh](ebook/Aneh_copy.pdf) - Pratham Books(2024)
 
