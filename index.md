@@ -30,11 +30,6 @@ Berikut adalah koleksi yang dimiliki:
 
 powered by _GitHub Pages_
 
-<html>
-<HEAD>
-<TITLE>TI kelas A</TITLE>
-</HEAD>
-
 <body> 
 <h1><marquee direction="up"><font color="#1aff1a">halo ini halaman 1!!</marquee></font></h1> 
 <hr>
@@ -45,28 +40,3 @@ powered by _GitHub Pages_
 <a href="halaman5.html">Halaman 5</a>|
 <a href="halaman6.html">Halaman 6</a>|
 <a href="halaman7.html">Halaman 7</a></p>
-<p>My first paragraph</p> 
-<marquee direction="down" width="250" height="200" behavior="alternate" style="border:solid">
-  <marquee behavior="alternate">
-	TI A
-  </marquee>
-</marquee>
-<p>Klik tombol untuk menampilkan Prompt Box</p>
-<button onclick="myFunction()">Coba</button>
-<p id="demo"></p>
-<script>
-function myFunction() {
-    var x;
-    var nama = prompt("Anda telah mengambil matakuliah Pemrograman, ketikkan nama Anda!","Your Name Here");
-	var nim = prompt("Ketikkan nim Anda!");
-	var prodi = prompt("Ketikkan prodi Anda!");
-	// variabel prodi dihapus
-    if (nama != null) {
-        document.getElementById("demo").innerHTML =
-        "Selamat siang " + nama + "! Nim Anda : "+nim+"! Program Studi: "+prodi;
-    }
-}
-</script>
-</body>
-
-</html>
