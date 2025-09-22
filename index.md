@@ -28,11 +28,6 @@ Berikut adalah koleksi yang dimiliki:
 
 11.[Ringkasan Materi VR](ebook/Ringkasan Materi VR_Hanin aqila m (13040123140092).pdf) - Hanin Aqila(2025)
 
-powered by _GitHub Pages_
-
-<body> 
-<h1><marquee direction="up"><font color="#1aff1a">halo ini halaman 1!!</marquee></font></h1> 
-<hr>
 <p><a href="halaman1.html">Halaman 1</a>|
 <a href="halaman2.html">Halaman 2</a>|
 <a href="halaman3.html">Halaman 3</a>|
